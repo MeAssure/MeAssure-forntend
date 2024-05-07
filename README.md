@@ -1,2 +1,2 @@
-# MeAssure-forntend
-Repository for frontend of the application
+# MeAssure-web
+Repository for web client of the application
