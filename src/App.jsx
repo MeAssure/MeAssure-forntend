@@ -1,9 +1,14 @@
 import './App.css'
+import AppBar from './components/AppBar'
+import MenuBar from './components/MenuBar'
+import Dashboard from './components/Dashboard'
 
 function App() {
   return (
     <>
-      <h1>Hello World Risabh!</h1>
+      <AppBar />
+      <MenuBar />
+      <Dashboard /> 
     </>
   )
 }
