@@ -1,0 +1,14 @@
+.MenuBar {
+    width: 20%;
+    background-color: #262626;
+    padding: 2px 2px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 4px;
+    border: solid;
+    border-radius: 8px;
+    border-color: grey;
+    border-width: 1px;
+    /* height: 100%; */
+}

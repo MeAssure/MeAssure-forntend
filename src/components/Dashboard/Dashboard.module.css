@@ -1,0 +1,14 @@
+.Dashboard {
+    width: 80%;
+    padding: 2px 2px;
+    background-color: #262626;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 4px;
+    border: solid;
+    border-radius: 8px;
+    border-color: grey;
+    border-width: 1px;
+    /* height: 100%; */
+}
