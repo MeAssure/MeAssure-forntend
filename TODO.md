@@ -1,0 +1,9 @@
+- Make list of views
+    - BOARD 1
+    - BOARD 2
+    - CREATE NEW BOARD
+    - --------------
+    - CALCULATOR
+    - MORE APPS
+    - ---------------
+    - SETTINGS
