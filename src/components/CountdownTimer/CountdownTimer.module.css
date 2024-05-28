@@ -1,0 +1,36 @@
+.CountdownTimer{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    background-color: #151826;
+}
+
+.timer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #151515;
+    height: 190px;
+    width: 190px;
+    margin: auto;
+    border-radius: 100%;
+    border: 4px solid greenyellow;
+    color: greenyellow;
+}
+
+.clock {
+    display: flex;
+    font-size: 35px;
+}
+
+.label {
+    display: flex;
+}
+
+hr {
+    display: flex;
+    background-color: greenyellow;
+    border: solid 1px greenyellow;
+
+}
