@@ -6,7 +6,7 @@ export default function Dashboard({title}) {
 	return (
 		<div className={styles.Dashboard}>
 			<Header text={title.toUpperCase()}/>
-			<CountdownTimer/>
+			<CountdownTimer timeInMilliseconds={34804354}/>
 		</div>
 	);
 }

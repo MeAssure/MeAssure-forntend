@@ -21,7 +21,7 @@
 
 .clock {
     display: flex;
-    font-size: 35px;
+    font-size: 160%;
 }
 
 .label {
@@ -30,7 +30,19 @@
 
 hr {
     display: flex;
+    margin: 10px 0px;
     background-color: greenyellow;
     border: solid 1px greenyellow;
+}
 
+p{
+    margin: 0px;
+    line-height: 1;
+}
+
+sup {
+    font-size: 40%;
+}
+sub {
+    font-size: 40%;
 }
